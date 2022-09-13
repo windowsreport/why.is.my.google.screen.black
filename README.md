@@ -1,6 +1,6 @@
 # why is my google screen black
 
-[![why is my google screen black](gett-stateed.png)](https://github.com/windowsreport/why.is.my.google.screen.black/)
+[![why is my google screen black](gett-stateed.png)](https://icncomputer.com/why-is-my-google-screen-black/)
 
 If you experience the black screen window, disable the hardware acceleration setting in the Chrome browser. Reset Chrome to its default state. If you still experience the black screen issue, reset the Chrome browser to its default settings to ensure it isn't a configuration issue.
 
